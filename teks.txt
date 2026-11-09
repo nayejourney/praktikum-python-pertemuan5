@@ -1,0 +1,4 @@
+Python merupakan bahasa pemrograman yang mudah dipelajari.
+Python banyak digunakan untuk pengolahan data, pengembangan web, dan kecerdasan buatan.
+Belajar Python membutuhkan latihan. Latihan membantu memahami konsep pemrograman.
+Struktur data Python meliputi string, list, tuple, set, dan dictionary.
